@@ -1,8 +1,6 @@
-Hey, this is a test.
+Hey, most of the code here are experiments, but some are useful stuff.
 
-If you can read this, the test was a success.
-
-If you are not seeing this, please contact me to let me know.
+Someday I will put a list here with what is what. Today is not that day :)
 
 ![filler pattern for game og life](http://www.isageek.com.br/assets/mainlogo.png "Beothorn")
 
