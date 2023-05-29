@@ -1,4 +1,6 @@
-Hey, this is what you can find here:
+Hey, I am a coder with lots of ideas (and not a lot of time).  
+Here on github is where I store my code, hope you can find something interesting here.  
+You can find more at [my blog](http://www.isageek.com.br/)  
 
 # Stuff you can play with
 
