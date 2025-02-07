@@ -30,6 +30,7 @@ You can find more at [my blog](http://www.isageek.com.br/)
 [Jastic](https://github.com/beothorn/jastic) - Java library for static page generation with a nice syntax based on static imports and custom types.(Java)  
 [AuthTools](https://github.com/beothorn/authTools) - A browser extension to analyse oauth2 calls.(JS, Browser Extension)  
 [URISchemeHandler](https://github.com/beothorn/URISchemeHandler) - A Java library to add and use URI scheme handlers registered with the OS.(Java)  
+[InternationalSuperStarSoccerDeluxePasswordGenerator](https://github.com/beothorn/InternationalSuperStarSoccerDeluxePasswordGenerator) - Reverse engineering of the SNES game password system
 
 # Experiments
 
