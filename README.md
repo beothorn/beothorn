@@ -6,6 +6,7 @@ You can find more at [my blog](http://www.isageek.com.br/)
 
 [My blog](https://github.com/beothorn/beothorn.github.com) - Find it at [www.isageek.com.br](http://www.isageek.com.br/)  
 [Javaflame](https://github.com/beothorn/javaflame) - Simple and easy flame graph for java. No servers or open connections, just plug the agent and get the results in a html.(Java, HTML, CSS, JS)  
+[Teleggram AI Connector](https://github.com/beothorn/telegramAIConnector) - Telegram bot server with support too MCP servers (Java, SpringAI, Telegrambots)
 [Botecko](https://github.com/beothorn/Botecko) - A client for OpenAI gpt (for now) that simulates character on a instant messenger.(Typescript, React, MaterialUI, OpenAI API, GPT4)  
 [Botline](https://github.com/beothorn/botline) - A Telegram bot that can run commands.(Python, Telegram, ChatBot)  
 [AutomataCraft](https://github.com/beothorn/automataCraft) - A minecraft mod. Use blocks to code a cellular automaton inside minecraft. See it in action [here](https://www.youtube.com/watch?v=aDtorzK2PtM)(Java, Minecraft)  
